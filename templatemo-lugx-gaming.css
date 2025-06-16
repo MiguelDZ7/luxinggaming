@@ -147,7 +147,7 @@ body {
 
 .section-heading h2 em {
   font-style: normal;
-  color: #0071f8;
+  color: #ffA500;
 }
 
 .section-heading h6 {
@@ -172,7 +172,7 @@ body {
 }
 
 .main-button a:hover {
-  background-color: #0071f8;
+  background-color: #ffA500;
   color: #fff;
 }
 
@@ -249,7 +249,7 @@ Pre-loader Style
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #0071f8;
+  background: #ffA500;
   border-radius: 50%;
   -webkit-transform: translateX(0);
   transform: translateX(0);
@@ -272,7 +272,7 @@ Pre-loader Style
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #0071f8;
+  background: #ffA500;
   border-radius: 50%;
 }
 
@@ -285,7 +285,7 @@ Header Style
 */
 
 .background-header {
-  background-color: #0071f8 !important;
+  background-color: #ffA500 !important;
   border-radius: 0px 0px 25px 25px;
   height: 80px!important;
   position: fixed!important;
@@ -728,7 +728,7 @@ Banner Style
 }
 
 .main-banner .caption form button:hover {
-  background-color: #0071f8;
+  background-color: #ffA500;
 }
 
 .main-banner .right-image {
@@ -744,7 +744,7 @@ Banner Style
   right: 20px;
   top: 20px;
   border-radius: 25px;
-  background-color: #008af8;
+  background-color: #ffA500;
   font-size: 22px;
   text-transform: uppercase;
   font-weight: 700;
@@ -801,7 +801,7 @@ Services Style
   display: inline-block;
   text-align: center;
   line-height: 90px;
-  background-color: #0071f8;
+  background-color: #ffA500;
   border-radius: 50%;
   transition: all .3s;
 }
@@ -851,7 +851,7 @@ Trending Style
   right: 20px;
   top: 20px;
   border-radius: 10px;
-  background-color: #008af8;
+  background-color: #ffA500;
   font-size: 17px;
   text-transform: uppercase;
   font-weight: 600;
@@ -892,11 +892,11 @@ Trending Style
 }
 
 .trending .item:hover .down-content h4 {
-  color: #0071f8;
+  color: #ffA500;
 }
 
 .trending .item:hover .down-content a {
-  background-color: #0071f8;
+  background-color: #ffA500;
 }
 
 
@@ -968,11 +968,11 @@ Most Played Style
 }
 
 .most-played .item:hover .down-content h4 {
-  color: #0071f8;
+  color: #ffA500;
 }
 
 .most-played .item:hover .down-content a {
-  background-color: #0071f8;
+  background-color: #ffA500;
 }
 
 
@@ -987,7 +987,7 @@ Categories Style
 }
 
 .categories .item  {
-  background-color: #0071f8;
+  background-color: #ffA500;
   position: relative;
   border-radius: 25px;
   text-align: center;
